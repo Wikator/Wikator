@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me
 
-<!--
-**Wikator/Wikator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying IT at the University of Gdańsk. I have been coding for over a year now, learning mostly by following online courses, and creating personal projects.
 
-Here are some ideas to get you started:
+## Technologies I know on intermidiate level:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,unity)](https://skillicons.dev)
+
+## Technologies I know on basic-intermidiate level:
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,angular,html,css,js,ts,azure,py,scala)](https://skillicons.dev)
+
+## Technologies I had contact with:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,godot,ruby,rails,bash,sqlite)](https://skillicons.dev)
